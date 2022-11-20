@@ -3,7 +3,7 @@ a basic barcode generator
 
 # Rules
 
-This program never provide any type of ##WARANNTY##
+This program never provide any type of WARANNTY
 or something like that
 
 Execute it at your own risk
